@@ -1,3 +1,5 @@
 hello world
 >push
 >pull
+>comand
+>start
